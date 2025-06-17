@@ -58,7 +58,7 @@ floating numbers (separated by ","). These floating numbers are the vector repre
 
 ## Testing
 
-A test file is included in the source code to verify the functionality of the classifier, along with the dataset consisting of 20 news articles from the Sky News website. This dataset can be replaced to perform semantic analysis on a different collection of documents.
+A test file is included in the source code to verify the functionality of the classifier, along with the dataset consisting of 32 news articles from the Sky News website. This dataset can be replaced to perform semantic analysis on a different collection of documents.
 
 ---
 
