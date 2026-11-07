@@ -96,7 +96,3 @@ https://github.com/eclipse/deeplearning4j
 [Online]. Available: https://github.com/eclipse/deeplearning4j
 
 ---
-
-## License
-
-This project was developed as coursework for academic purposes.
