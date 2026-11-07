@@ -1,6 +1,6 @@
 # Advanced News Classifier using GloVe Embeddings and Machine Learning
 
-> An advanced news classifier using GloVe embeddings and machine learning, expanding upon a previous project that used TF-IDF and cosine similarity, now capturing contextual meaning and deeper semantic connections between words, written for an Object-Oriented programming assignment at the University of Birmingham.
+> An advanced news classifier using GloVe embeddings and machine learning, expanding upon a previous project that used TF-IDF and cosine similarity, now capturing contextual meaning and deeper semantic connections between words.
 
 ---
 
